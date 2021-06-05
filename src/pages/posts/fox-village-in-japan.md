@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: My first post
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
